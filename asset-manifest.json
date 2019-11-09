@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MegaCalc/static/css/main.59e370f5.chunk.css",
+    "main.js": "/MegaCalc/static/js/main.7edf05e5.chunk.js",
+    "main.js.map": "/MegaCalc/static/js/main.7edf05e5.chunk.js.map",
+    "runtime-main.js": "/MegaCalc/static/js/runtime-main.169faf63.js",
+    "runtime-main.js.map": "/MegaCalc/static/js/runtime-main.169faf63.js.map",
+    "static/css/2.7ececfe9.chunk.css": "/MegaCalc/static/css/2.7ececfe9.chunk.css",
+    "static/js/2.fd174f8d.chunk.js": "/MegaCalc/static/js/2.fd174f8d.chunk.js",
+    "static/js/2.fd174f8d.chunk.js.map": "/MegaCalc/static/js/2.fd174f8d.chunk.js.map",
+    "index.html": "/MegaCalc/index.html",
+    "precache-manifest.de09e26c4cc0288b4ff6f24c0d68abf1.js": "/MegaCalc/precache-manifest.de09e26c4cc0288b4ff6f24c0d68abf1.js",
+    "service-worker.js": "/MegaCalc/service-worker.js",
+    "static/css/2.7ececfe9.chunk.css.map": "/MegaCalc/static/css/2.7ececfe9.chunk.css.map",
+    "static/css/main.59e370f5.chunk.css.map": "/MegaCalc/static/css/main.59e370f5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.169faf63.js",
+    "static/css/2.7ececfe9.chunk.css",
+    "static/js/2.fd174f8d.chunk.js",
+    "static/css/main.59e370f5.chunk.css",
+    "static/js/main.7edf05e5.chunk.js"
+  ]
+}
