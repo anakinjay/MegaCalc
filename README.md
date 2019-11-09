@@ -1,3 +1,6 @@
+
+# MegaCalc
+
 To view the compiled application, please go here:
 https://anakinjay.github.io/MegaCalc/
 
